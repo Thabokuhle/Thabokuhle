@@ -26,5 +26,6 @@ I enjoy turning data into insights that support **better business decisions**.
 
 ## 📫 Contact
 📍 South Africa  
-💼 Aspiring Data Analyst
+💼 Aspiring Data Analysis
+ thabokuhlekhoza@gmail.com
 
