@@ -8,7 +8,7 @@ I enjoy turning data into insights that support **better business decisions**.
 ## 🛠️ Skills
 - SQL (Google BigQuery)
 - Data Cleaning & Analysis
-- Excel (Pivot Tables, Charts)
+- Google-sheets (Pivot Tables, Charts)
 - Data Visualization
 - Business & Sales Analytics
 
